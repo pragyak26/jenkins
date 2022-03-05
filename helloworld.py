@@ -1,2 +1,2 @@
 echo "hello"
-echo "paggu"
+echo "=<paggu>="
