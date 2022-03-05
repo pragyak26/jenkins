@@ -1,2 +1,2 @@
-print("hello")
-print("paggu")
+echo "hello"
+echo "paggu"
